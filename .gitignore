@@ -1,8 +1,8 @@
 *-backups
 *-cache
 *auto_saved_files*
-getting_started/gerber
-getting_started/bom
+gerber
+bom
 *.pdf
 *.step
 *.zip
@@ -10,6 +10,6 @@ getting_started/bom
 *.log
 ~*.lck
 *.rpt
-getting_started/_autosave-*.kicad_*
+_autosave-*.kicad_*
 *.kicad_sch-bak
 
